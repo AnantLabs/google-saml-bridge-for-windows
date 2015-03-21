@@ -1,0 +1,1 @@
+This project uses the SAML SPI supported by Google Search Appliance to support Windows Integrated Authentication.
